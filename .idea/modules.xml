@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/myHDFS/myHDFS.iml" filepath="$PROJECT_DIR$/myHDFS/myHDFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myHadoop.iml" filepath="$PROJECT_DIR$/myHadoop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myMapReduce/myMapReduce.iml" filepath="$PROJECT_DIR$/myMapReduce/myMapReduce.iml" />
+    </modules>
+  </component>
+</project>
